@@ -1,0 +1,2 @@
+class joe
+end
