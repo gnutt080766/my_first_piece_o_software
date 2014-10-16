@@ -1,4 +1,4 @@
 1 - start your computer
 2 - logon to windows
 3 - click start button
-
+4 - open progam files folder
