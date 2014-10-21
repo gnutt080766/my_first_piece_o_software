@@ -2,3 +2,4 @@
 2 - logon to windows
 3 - click start button
 4 - open progam files folder
+5 - spread the word about gitting to know you
