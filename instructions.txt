@@ -4,3 +4,4 @@
 4 - open progam files folder
 5 - spread the word about gitting to know you
 6 - note to friwnds actually
+7 - these are instrucitions for the master branch only
