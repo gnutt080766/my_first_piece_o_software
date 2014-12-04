@@ -1,4 +1,4 @@
-1 - start your GREEN_FEATURE computer
+1 - start your MASTER/GREEN_FEATURE computer
 2 - logon to windows
 3 - click start button
 4 - open progam files folder
@@ -6,3 +6,4 @@
 6 - note to friwnds actually
 7 - these are instrucitions for the master branch only
 8 - one more for master gomely
+9 - A new line on the merge of green and master
